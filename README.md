@@ -81,8 +81,7 @@ Thank you for your purchase!
 
 ## Project Goals
 
-The main goal of this project is to provide campus vendors with a simple and efficient tool for managing basic inventory and sales activities while also demonstrating practical Python programming concepts.
-
+The main goal of this project is to provide campus vendors with a simple and efficient tool for managing basic inventory and sales activities while also demonstrating practical Python programming concepts.This project helps campus vendors manage stock and sales.
 ## Future Improvements
 
 Possible future improvements include:
